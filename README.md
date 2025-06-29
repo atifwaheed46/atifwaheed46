@@ -16,7 +16,6 @@ Check out my projects in my GitHub repositories to see my work in action.
 ## 🔐 Cybersecurity Expertise
 - **Red Team**: Penetration testing, exploit development, social engineering, and vulnerability assessments
 - **Blue Team**: Malware analysis, reverse engineering, incident response, threat hunting, log analysis, and security monitoring (EDR protection)
-- **Tools**: x64dbg, Ghidra, Wireshark, Splunk, Metasploit, Burp Suite, OSINT tools
 
 ---
 
